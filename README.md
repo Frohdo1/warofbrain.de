@@ -1,2 +1,2 @@
 # warofbrain.de
-It a webpage
+It is a webpage
